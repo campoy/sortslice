@@ -7,6 +7,7 @@ This package allows you to write:
 
 <code>
   a := []int{1,2,34}
+  
   sortslice.Any(a)
 </code>
 
